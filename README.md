@@ -1,5 +1,3 @@
-Sure! Here's the same README.md file in HTML format:
-
 <!-- Welcome to My GitHub Profile! -->
 <h1>Welcome to My GitHub Profile!</h1>
 
